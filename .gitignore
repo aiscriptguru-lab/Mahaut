@@ -1,0 +1,5 @@
+﻿# Configs
+app/config/config.php
+
+# Local scripts
+git_push.sh

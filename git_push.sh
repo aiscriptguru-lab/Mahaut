@@ -2,7 +2,7 @@
 
 # --- Настройки ---
 REPO_URL="https://github.com/aiscriptguru-lab/Mahaut.git"  # твой репозиторий
-BRANCH="master"                                               # ветка: master или main
+BRANCH="main"                                               # ветка: master или main
 
 # Проверяем аргумент коммита
 if [ -z "$1" ]; then

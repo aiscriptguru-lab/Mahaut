@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 ﻿# Configs
 app/config/config.php
 
 # Local scripts
 git_push.sh
+=======
+# Configs
+app/config/config.php
+
+# Local scripts
+git_push.sh
+>>>>>>> e420e67513de7fd6c1ea2d9c65141bbe9e13f71a
